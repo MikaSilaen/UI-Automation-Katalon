@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EndToEndTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>602e9098-35e4-4b03-820c-aa356a5244dc</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ba9f9ef0-ea80-49bc-98ca-3acea4d7b94e</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
